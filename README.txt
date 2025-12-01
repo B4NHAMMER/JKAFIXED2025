@@ -1,3 +1,7 @@
+fixed original source buildable for win
+
+
+
 Activision and Raven are releasing this code for people to learn from and play with. 
 This code is copyright Activision 2003. This source is released under GNU GPLv2.
 
@@ -20,3 +24,4 @@ zlib is Copyright (C) 1995-1998 Jean-loup Gailly and Mark Adler
   2. Altered source versions must be plainly marked as such, and must not be
      misrepresented as being the original software.
   3. This notice may not be removed or altered from any source distribution.
+
